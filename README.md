@@ -1,4 +1,5 @@
 
+[![Build Status](https://dev.azure.com/muditkumar0907/Test/_apis/build/status/mudit000.pipelines-java?branchName=master)](https://dev.azure.com/muditkumar0907/Test/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
